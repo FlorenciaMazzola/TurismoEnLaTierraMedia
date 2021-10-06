@@ -1,0 +1,9 @@
+Pack aventura,Aventura,Promocion Porcentual,Moria,Mordor,0.2,
+Pack aventura,Aventura,Promocion Absoluta,Moria,Bosque Negro,3.0,
+Pack aventura,Aventura,Promocion AxB,Bosque Negro,Mordor,La Roca,
+Pack paisajes,Paisaje,Promocion Porcentual,Minas Tirith,Erebor,0.18,
+Pack paisajes,Paisaje,Promocion Absoluta,Minas Tirith,Abismo de Helm,2.0,
+Pack paisajes,Paisaje,Promocion AxB,Abismo de Helm,Erebor,Puente
+Pack degustacion,Degustacion,Promocion Porcentual,Lothlorien,La Comarca,0.15, 
+Pack degustacion,Degustacion,Promocion Absoluta,Lothlorien,El Pozo,2.0,  
+Pack degustacion,Degustacion,Promocion AxB,La Comarca,El Pozo,La Olla,
