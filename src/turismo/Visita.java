@@ -71,6 +71,7 @@ public class Visita implements Comparator<Ofertable> {
 		return null;
 	}
 	
+	
 
 	public List<Atraccion> darSugerenciaPorGusto(Usuario usuario ) {
 

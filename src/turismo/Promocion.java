@@ -1,5 +1,6 @@
 package turismo;
 
+import java.util.Collection;
 import java.util.List;
 
 
@@ -53,13 +54,13 @@ public abstract class Promocion implements Ofertable {
 	}
 		
 	@Override
-	public double getCosto() {
-		return costoTotal;
-	}
-
-	@Override
 	public String getNombre() {
 		return nombrePromocion;
+	}
+	
+	@Override
+	public double getCosto() {
+		return costoTotal;
 	}
 
 	public String getTipoPromocion() {
