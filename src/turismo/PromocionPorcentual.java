@@ -16,12 +16,9 @@ public class PromocionPorcentual extends Promocion {
 			if(atracciones.get(i).getNombre().equals(atraccion1)||
 					atracciones.get(i).getNombre().equals(atraccion2)) {	
 				atraccionesPromocion.add(atracciones.get(i));
-				costoTotal += atracciones.get(i).getCosto();
-				tiempoRequeridoPromocion += atracciones.get(i).getTiempo();
+				
 			}
-		}
-			costoTotal -= costoTotal * this.descuento; 
-		
+		}	
 		return atraccionesPromocion;
 	}
 
